@@ -24,3 +24,92 @@ Welcome to my SQL portfolio! This repository contains a collection of relational
 
 ## 🚀 How to Explore
 Feel free to open the `.sql` files above to view the complete production-ready database schemas and analytic business queries.
+
+
+
+
+
+
+
+# SQL Data Analytics Portfolio
+
+Welcome to my SQL Data Analytics Portfolio.
+
+This repository contains SQL practice projects and business case studies completed using PostgreSQL on the Sample Superstore dataset.
+
+---
+
+## 📂 Dataset
+
+- Sample Superstore Dataset
+
+---
+
+## 📚 Topics Covered
+
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- HAVING
+- Aggregate Functions (SUM, AVG, COUNT, MIN, MAX)
+- CASE WHEN
+- String Functions
+- Date Functions
+- JOINS
+- Subqueries
+- Common Table Expressions (CTE)
+- Window Functions
+  - RANK()
+  - DENSE_RANK()
+  - ROW_NUMBER()
+  - LAG()
+  - LEAD()
+  - Running Total
+
+---
+
+## 📊 Business SQL Analysis
+
+This repository includes real-world business questions such as:
+
+- Top Selling Products
+- Top Customers by Sales
+- Loss Making Products
+- Profit Margin Analysis
+- Sales Trend Analysis
+- Category-wise Performance
+- Region-wise Analysis
+- Customer Analysis
+- Product Ranking
+- Monthly Sales Trend
+
+---
+
+## 🛠️ Tools
+
+- PostgreSQL
+- pgAdmin
+- SQL
+
+---
+
+## 🎯 Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- Business Query Writing
+- Aggregations
+- Ranking
+- Analytical Thinking
+- Window Functions
+- CTE
+- SQL Problem Solving
+
+---
+
+## 👨‍💻 Author
+
+Dipanshu Jain
+
+Aspiring Data Analyst | SQL | Python | Power BI (Learning)
